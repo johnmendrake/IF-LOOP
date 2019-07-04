@@ -1,7 +1,7 @@
 package ifloop;
 
 public class Student {
-  private List<Kurse> kurse;
+  private List<Kurs> kurse;
   
   public Student() {
   
