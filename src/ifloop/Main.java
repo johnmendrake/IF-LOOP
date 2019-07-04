@@ -15,8 +15,8 @@ public class Main {
 
 	/**
 	 * Hier wird der gesamte Ablauf geregelt. Die Methode soll optional mit arg[0]
-	 * einen Startpunkt der Informationskette übergeben bekommen (Ausgangspunkt Algorithmus von
-	 * Dijkstra).
+	 * einen Startpunkt der Informationskette übergeben bekommen (Ausgangspunkt
+	 * Algorithmus von Dijkstra).
 	 * 
 	 * @param args
 	 */
@@ -24,27 +24,28 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
-	
+
 	/**
 	 * Kürzester Weg von einem Knoten zu einem bestimmten anderen.
+	 * 
 	 * @param pVertex
 	 */
 	public static void shortestWayToVertex(Vertex startVertex, Vertex targetVertex) {
 		// change return type
 	}
-	
+
 	/**
 	 * Liste kürzester Wege zu allen Knoten von einem Ausgangsknoten.
 	 */
 	public static void shortestWayToVertexes(Vertex startVertex) {
 		// change return type
 	}
-	
+
 	/**
 	 * Finde den minimalen Stammbaum nach Prim.
 	 */
 	public static void prim() {
-		
+
 	}
 
 }
